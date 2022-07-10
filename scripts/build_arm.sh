@@ -1,0 +1,1 @@
+cross build --target armv7-unknown-linux-gnueabihf --release && chmod +rwx target/armv7-unknown-linux-gnueabihf/release/pstats

@@ -1,0 +1,1 @@
+cargo build --release && chmod +rwx target/release/pstats
